@@ -1,0 +1,197 @@
+
+TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
+--------------------------------------------------------------------------------
+05 Thursday  September 09:24:57 Am                                              
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+
+Procedure created.
+
+
+PL/SQL procedure successfully completed.
+
+42                                                                              
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+Melinda's Favorite number is 42                                                 
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+Seven time of 7 is 49!                                                          
+
+PL/SQL procedure successfully completed.
+
+
+Function created.
+
+
+F_SEVEN_TIME(7)                                                                 
+---------------                                                                 
+             49                                                                 
+
+Connected.
+
+TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
+--------------------------------------------------------------------------------
+05 Thursday  September 09:24:57 Am                                              
+
+
+User dropped.
+
+
+User created.
+
+
+Grant succeeded.
+
+
+User altered.
+
+Connected.
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Commit complete.
+
+Connected.
+
+Function created.
+
+
+     EMPNO ENAME          DEPTNO        SAL Dream Salary                        
+---------- ---------- ---------- ---------- ------------                        
+      7698 BLAKE              30       2850        19950                        
+      7499 ALLEN              30       1600        11200                        
+      7521 WARD               30       1250         8750                        
+      7654 MARTIN             30       1250         8750                        
+      7844 TURNER             30       1500        10500                        
+      7900 JAMES              30        950         6650                        
+
+6 rows selected.
+
+
+Warning: Function created with compilation errors.
+
+
+     EMPNO ENAME          DEPTNO        SAL Dream Salary                        
+---------- ---------- ---------- ---------- ------------                        
+      7698 BLAKE              30       2850        19950                        
+      7499 ALLEN              30       1600        11200                        
+      7521 WARD               30       1250         8750                        
+      7654 MARTIN             30       1250         8750                        
+      7844 TURNER             30       1500        10500                        
+      7900 JAMES              30        950         6650                        
+
+6 rows selected.
+
+
+Procedure created.
+
+Seven times 7 is 49!                                                            
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For a mark of 50 you will have See you again my friend!!                        
+
+PL/SQL procedure successfully completed.
+
