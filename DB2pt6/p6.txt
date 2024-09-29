@@ -1,0 +1,287 @@
+
+TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
+--------------------------------------------------------------------------------
+29 Sunday    September 01:50:53 Pm                                              
+
+Connected.
+
+Procedure created.
+
+--------------------------------------------------                              
+Faculty ID: 1                                                                   
+Name: Cox, Kim                                                                  
+Rank: ASSO                                                                      
+Student ID: 1                                                                   
+Name: Miller, Sarah                                                             
+Birthdate: 14-JUL-85                                                            
+Class: SR                                                                       
+Student ID: 2                                                                   
+Name: Umato, Brian                                                              
+Birthdate: 19-AUG-85                                                            
+Class: SR                                                                       
+Student ID: 3                                                                   
+Name: Black, Daniel                                                             
+Birthdate: 10-OCT-82                                                            
+Class: JR                                                                       
+--------------------------------------------------                              
+Faculty ID: 2                                                                   
+Name: Blanchard, John                                                           
+Rank: FULL                                                                      
+Student ID: 4                                                                   
+Name: Mobley, Amanda                                                            
+Birthdate: 24-SEP-86                                                            
+Class: SO                                                                       
+--------------------------------------------------                              
+Faculty ID: 3                                                                   
+Name: Williams, Jerry                                                           
+Rank: ASST                                                                      
+Student ID: 6                                                                   
+Name: Connoly, Michael                                                          
+Birthdate: 04-DEC-86                                                            
+Class: FR                                                                       
+--------------------------------------------------                              
+Faculty ID: 4                                                                   
+Name: Sheng, Laura                                                              
+Rank: INST                                                                      
+Student ID: 5                                                                   
+Name: Sanchez, Ruben                                                            
+Birthdate: 20-NOV-86                                                            
+Class: SO                                                                       
+--------------------------------------------------                              
+Faculty ID: 5                                                                   
+Name: Brown, Philip                                                             
+Rank: ASSO                                                                      
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+--------------------------------------------------                              
+Consultant ID: 100                                                              
+Name: Myers, Mark                                                               
+Skill: VB .NET Programming                                                      
+Status: Y                                                                       
+Skill: Java Programming                                                         
+Status: Y                                                                       
+Skill: Oracle Developer Programming                                             
+Status: Y                                                                       
+--------------------------------------------------                              
+Consultant ID: 101                                                              
+Name: Hernandez, Sheila                                                         
+Skill: Project Management                                                       
+Status: N                                                                       
+Skill: Web Application Programming                                              
+Status: N                                                                       
+--------------------------------------------------                              
+Consultant ID: 102                                                              
+Name: Zhang, Brian                                                              
+Skill: Oracle Database Administration                                           
+Status: Y                                                                       
+--------------------------------------------------                              
+Consultant ID: 103                                                              
+Name: Carlson, Sarah                                                            
+Skill: VB .NET Programming                                                      
+Status: Y                                                                       
+Skill: Oracle Developer Programming                                             
+Status: Y                                                                       
+Skill: Windows NT/2000 Network Administration                                   
+Status: Y                                                                       
+Skill: Windows XP Network Administration                                        
+Status: Y                                                                       
+--------------------------------------------------                              
+Consultant ID: 104                                                              
+Name: Courtlandt, Paul                                                          
+Skill: Windows NT/2000 Network Administration                                   
+Status: N                                                                       
+Skill: Windows XP Network Administration                                        
+Status: Y                                                                       
+--------------------------------------------------                              
+Consultant ID: 105                                                              
+Name: Park, Janet                                                               
+Skill: COBOL Programming                                                        
+Status: N                                                                       
+Skill: Java Programming                                                         
+Status: N                                                                       
+Skill: Project Management                                                       
+Status: Y                                                                       
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+--------------------------------------------------                              
+Item ID: 1                                                                      
+Description: Men's Expedition Parka                                             
+Category ID: 3                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 23                                                                
+Inventory ID: 24                                                                
+Inventory ID: 25                                                                
+Inventory ID: 26                                                                
+--------------------------------------------------                              
+Item ID: 2                                                                      
+Description: 3-Season Tent                                                      
+Category ID: 4                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 1                                                                 
+Inventory ID: 2                                                                 
+--------------------------------------------------                              
+Item ID: 3                                                                      
+Description: Women's Hiking Shorts                                              
+Category ID: 1                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 3                                                                 
+Inventory ID: 4                                                                 
+Inventory ID: 5                                                                 
+Inventory ID: 6                                                                 
+Inventory ID: 7                                                                 
+Inventory ID: 8                                                                 
+--------------------------------------------------                              
+Item ID: 4                                                                      
+Description: Women's Fleece Pullover                                            
+Category ID: 1                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 9                                                                 
+Inventory ID: 10                                                                
+Inventory ID: 11                                                                
+Inventory ID: 12                                                                
+Inventory ID: 13                                                                
+Inventory ID: 14                                                                
+--------------------------------------------------                              
+Item ID: 5                                                                      
+Description: Children's Beachcomber Sandals                                     
+Category ID: 2                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 15                                                                
+Inventory ID: 16                                                                
+Inventory ID: 17                                                                
+Inventory ID: 18                                                                
+Inventory ID: 19                                                                
+Inventory ID: 20                                                                
+Inventory ID: 21                                                                
+Inventory ID: 22                                                                
+--------------------------------------------------                              
+Item ID: 6                                                                      
+Description: Boy's Surf Shorts                                                  
+Category ID: 2                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 27                                                                
+Inventory ID: 28                                                                
+Inventory ID: 29                                                                
+--------------------------------------------------                              
+Item ID: 7                                                                      
+Description: Girl's Soccer Tee                                                  
+Category ID: 2                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 30                                                                
+Inventory ID: 31                                                                
+Inventory ID: 32                                                                
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+--------------------------------------------------                              
+Item ID: 1                                                                      
+Description: Men's Expedition Parka                                             
+Value: $                                                                        
+Category ID: 3                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 23                                                                
+Inventory ID: 24                                                                
+Inventory ID: 25                                                                
+Inventory ID: 26                                                                
+--------------------------------------------------                              
+Item ID: 2                                                                      
+Description: 3-Season Tent                                                      
+Value: $2771.4                                                                  
+Category ID: 4                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 1                                                                 
+Inventory ID: 2                                                                 
+--------------------------------------------------                              
+Item ID: 3                                                                      
+Description: Women's Hiking Shorts                                              
+Value: $3431.88                                                                 
+Category ID: 1                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 3                                                                 
+Inventory ID: 4                                                                 
+Inventory ID: 5                                                                 
+Inventory ID: 6                                                                 
+Inventory ID: 7                                                                 
+Inventory ID: 8                                                                 
+--------------------------------------------------                              
+Item ID: 4                                                                      
+Description: Women's Fleece Pullover                                            
+Value: $3789.25                                                                 
+Category ID: 1                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 9                                                                 
+Inventory ID: 10                                                                
+Inventory ID: 11                                                                
+Inventory ID: 12                                                                
+Inventory ID: 13                                                                
+Inventory ID: 14                                                                
+--------------------------------------------------                              
+Item ID: 5                                                                      
+Description: Children's Beachcomber Sandals                                     
+Value: $7386.4                                                                  
+Category ID: 2                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 15                                                                
+Inventory ID: 16                                                                
+Inventory ID: 17                                                                
+Inventory ID: 18                                                                
+Inventory ID: 19                                                                
+Inventory ID: 20                                                                
+Inventory ID: 21                                                                
+Inventory ID: 22                                                                
+--------------------------------------------------                              
+Item ID: 6                                                                      
+Description: Boy's Surf Shorts                                                  
+Value: $2163.57                                                                 
+Category ID: 2                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 27                                                                
+Inventory ID: 28                                                                
+Inventory ID: 29                                                                
+--------------------------------------------------                              
+Item ID: 7                                                                      
+Description: Girl's Soccer Tee                                                  
+Value: $1755                                                                    
+Category ID: 2                                                                  
+Inventories belonging to this Item                                              
+Inventory ID: 30                                                                
+Inventory ID: 31                                                                
+Inventory ID: 32                                                                
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+--------------------------------------------------                              
+Consultant ID: 100                                                              
+Name: Myers, Mark                                                               
+City: Eau Claire                                                                
+Email: mmyers@swexpert.com                                                      
+Skills------                                                                    
+Skill: VB .NET Programming                                                      
+Old Status: Y                                                                   
+New Status: N                                                                   
+Skill: Java Programming                                                         
+Old Status: Y                                                                   
+New Status: N                                                                   
+Skill: Oracle Developer Programming                                             
+Old Status: Y                                                                   
+New Status: N                                                                   
+
+PL/SQL procedure successfully completed.
+

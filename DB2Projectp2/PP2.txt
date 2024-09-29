@@ -1,0 +1,155 @@
+
+TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
+--------------------------------------------------------------------------------
+08 Sunday    September 12:26:02 Pm                                              
+
+
+Function created.
+
+
+PRODUCT(3,5)                                                                    
+------------                                                                    
+          15                                                                    
+
+
+Procedure created.
+
+For a rectangle of size 3 by 5 the area is 15.                                  
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+square                                                                          
+
+PL/SQL procedure successfully completed.
+
+For a rectangle of size 4 by 5 the area is 20.                                  
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For 2 Canadian dollars, you will have 200 Yen.                                  
+
+PL/SQL procedure successfully completed.
+
+
+Function created.
+
+
+Procedure created.
+
+Number 5 is ODD                                                                 
+
+PL/SQL procedure successfully completed.
+
+Number 6 is EVEN                                                                
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For 1 YEN, you will have 1 yen.                                                 
+
+PL/SQL procedure successfully completed.
+
+For 1 Yen, you will have .01 Canadian dollars.                                  
+
+PL/SQL procedure successfully completed.
+
+For 1 Yen, you will have .006666666666666666666666666666666666666667 Euro.      
+
+PL/SQL procedure successfully completed.
+
+For 1 Yen, you will have 100 DONG.                                              
+
+PL/SQL procedure successfully completed.
+
+For 1 Yen, you will have 10000 ZIP.                                             
+
+PL/SQL procedure successfully completed.
+
+For 1 Canadian dollars, you will have 100 Yen.                                  
+
+PL/SQL procedure successfully completed.
+
+For 1 Canadian dollars, you will have 1 canadian dollars.                       
+
+PL/SQL procedure successfully completed.
+
+For 1 Canadian dollars, you will have 1.5 Euros.                                
+
+PL/SQL procedure successfully completed.
+
+For 1 Canadian dollars, you will have 10000 DONG.                               
+
+PL/SQL procedure successfully completed.
+
+For 1 Canadian dollars, you will have 1000000 ZIP.                              
+
+PL/SQL procedure successfully completed.
+
+For 1 Euro, you will have 150 YEN.                                              
+
+PL/SQL procedure successfully completed.
+
+For 1 Euro, you will have .6666666666666666666666666666666666666667 Canadian    
+dollars.                                                                        
+
+PL/SQL procedure successfully completed.
+
+For 1 euros, you will have 1 euros.                                             
+
+PL/SQL procedure successfully completed.
+
+For 1 Euro, you will have 15000 DONG.                                           
+
+PL/SQL procedure successfully completed.
+
+For 1 Euro, you will have 1500000 ZIP.                                          
+
+PL/SQL procedure successfully completed.
+
+For 1 Dong, you will have .01 Yen.                                              
+
+PL/SQL procedure successfully completed.
+
+For 1 Dong, you will have .0001 Canadian dollars.                               
+
+PL/SQL procedure successfully completed.
+
+For 1 Dong, you will have .00006666666666666666666666666666666666666667 Euro.   
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+For 1 Dong, you will have 100 ZIP.                                              
+
+PL/SQL procedure successfully completed.
+
+For 1 ZIP, you will have .0001 Yen.                                             
+
+PL/SQL procedure successfully completed.
+
+For 1 ZIP, you will have .000001 Canadian dollars.                              
+
+PL/SQL procedure successfully completed.
+
+For 1 ZIP, you will have .0000006666666666666666666666666666666666666667 Euro.  
+
+PL/SQL procedure successfully completed.
+
+For 1 ZIP, you will have .01 DONG.                                              
+
+PL/SQL procedure successfully completed.
+
+For 1 ZIP, you will have 1 ZIP.                                                 
+
+PL/SQL procedure successfully completed.
+

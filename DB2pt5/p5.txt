@@ -1,0 +1,287 @@
+
+TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
+--------------------------------------------------------------------------------
+29 Sunday    September 01:47:22 Pm                                              
+
+Connected.
+
+Procedure created.
+
+Term ID: 1                                                                      
+Term Description: Fall 2005                                                     
+Status: CLOSED                                                                  
+Term ID: 2                                                                      
+Term Description: Spring 2006                                                   
+Status: CLOSED                                                                  
+Term ID: 3                                                                      
+Term Description: Summer 2006                                                   
+Status: CLOSED                                                                  
+Term ID: 4                                                                      
+Term Description: Fall 2006                                                     
+Status: CLOSED                                                                  
+Term ID: 5                                                                      
+Term Description: Spring 2007                                                   
+Status: CLOSED                                                                  
+Term ID: 6                                                                      
+Term Description: Summer 2007                                                   
+Status: OPEN                                                                    
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+Item description: 3-Season Tent                                                 
+Price: $259.99                                                                  
+Color: Sky Blue                                                                 
+Quantity on hand: 16                                                            
+Item description: 3-Season Tent                                                 
+Price: $259.99                                                                  
+Color: Light Grey                                                               
+Quantity on hand: 12                                                            
+Item description: Women's Hiking Shorts                                         
+Price: $29.95                                                                   
+Color: Khaki                                                                    
+Quantity on hand: 150                                                           
+Item description: Women's Hiking Shorts                                         
+Price: $29.95                                                                   
+Color: Khaki                                                                    
+Quantity on hand: 147                                                           
+Item description: Women's Hiking Shorts                                         
+Price: $29.95                                                                   
+Color: Khaki                                                                    
+Quantity on hand: 0                                                             
+Item description: Women's Hiking Shorts                                         
+Price: $29.95                                                                   
+Color: Navy                                                                     
+Quantity on hand: 139                                                           
+Item description: Women's Hiking Shorts                                         
+Price: $29.95                                                                   
+Color: Navy                                                                     
+Quantity on hand: 137                                                           
+Item description: Women's Hiking Shorts                                         
+Price: $29.95                                                                   
+Color: Navy                                                                     
+Quantity on hand: 115                                                           
+Item description: Women's Fleece Pullover                                       
+Price: $59.95                                                                   
+Color: Eggplant                                                                 
+Quantity on hand: 135                                                           
+Item description: Women's Fleece Pullover                                       
+Price: $59.95                                                                   
+Color: Eggplant                                                                 
+Quantity on hand: 168                                                           
+Item description: Women's Fleece Pullover                                       
+Price: $59.95                                                                   
+Color: Eggplant                                                                 
+Quantity on hand: 187                                                           
+Item description: Women's Fleece Pullover                                       
+Price: $59.95                                                                   
+Color: Royal                                                                    
+Quantity on hand: 0                                                             
+Item description: Women's Fleece Pullover                                       
+Price: $59.95                                                                   
+Color: Royal                                                                    
+Quantity on hand: 124                                                           
+Item description: Women's Fleece Pullover                                       
+Price: $59.95                                                                   
+Color: Royal                                                                    
+Quantity on hand: 112                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Turquoise                                                                
+Quantity on hand: 121                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Turquoise                                                                
+Quantity on hand: 111                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Turquoise                                                                
+Quantity on hand: 113                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Turquoise                                                                
+Quantity on hand: 121                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Bright Pink                                                              
+Quantity on hand: 148                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Bright Pink                                                              
+Quantity on hand: 137                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Bright Pink                                                              
+Quantity on hand: 134                                                           
+Item description: Children's Beachcomber Sandals                                
+Price: $15.99                                                                   
+Color: Bright Pink                                                              
+Quantity on hand: 123                                                           
+Item description: Men's Expedition Parka                                        
+Price: $199.95                                                                  
+Color: Spruce                                                                   
+Quantity on hand: 114                                                           
+Item description: Men's Expedition Parka                                        
+Price: $199.95                                                                  
+Color: Spruce                                                                   
+Quantity on hand: 17                                                            
+Item description: Men's Expedition Parka                                        
+Price: $209.95                                                                  
+Color: Spruce                                                                   
+Quantity on hand: 0                                                             
+Item description: Men's Expedition Parka                                        
+Price: $209.95                                                                  
+Color: Spruce                                                                   
+Quantity on hand: 12                                                            
+Item description: Boy's Surf Shorts                                             
+Price: $15.95                                                                   
+Color: Blue                                                                     
+Quantity on hand: 50                                                            
+Item description: Boy's Surf Shorts                                             
+Price: $15.95                                                                   
+Color: Blue                                                                     
+Quantity on hand: 100                                                           
+Item description: Boy's Surf Shorts                                             
+Price: $15.95                                                                   
+Color: Blue                                                                     
+Quantity on hand: 100                                                           
+Item description: Girl's Soccer Tee                                             
+Price: $19.99                                                                   
+Color: White                                                                    
+Quantity on hand: 100                                                           
+Item description: Girl's Soccer Tee                                             
+Price: $19.99                                                                   
+Color: White                                                                    
+Quantity on hand: 100                                                           
+Item description: Girl's Soccer Tee                                             
+Price: $19.99                                                                   
+Color: White                                                                    
+Quantity on hand: 100                                                           
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+Item : 3-Season Tent                                                            
+Old price : $259.99                                                             
+New price : $285.99                                                             
+Item : 3-Season Tent                                                            
+Old price : $259.99                                                             
+New price : $285.99                                                             
+Item : Women's Hiking Shorts                                                    
+Old price : $29.95                                                              
+New price : $32.95                                                              
+Item : Women's Hiking Shorts                                                    
+Old price : $29.95                                                              
+New price : $32.95                                                              
+Item : Women's Hiking Shorts                                                    
+Old price : $29.95                                                              
+New price : $32.95                                                              
+Item : Women's Hiking Shorts                                                    
+Old price : $29.95                                                              
+New price : $32.95                                                              
+Item : Women's Hiking Shorts                                                    
+Old price : $29.95                                                              
+New price : $32.95                                                              
+Item : Women's Hiking Shorts                                                    
+Old price : $29.95                                                              
+New price : $32.95                                                              
+Item : Women's Fleece Pullover                                                  
+Old price : $59.95                                                              
+New price : $65.95                                                              
+Item : Women's Fleece Pullover                                                  
+Old price : $59.95                                                              
+New price : $65.95                                                              
+Item : Women's Fleece Pullover                                                  
+Old price : $59.95                                                              
+New price : $65.95                                                              
+Item : Women's Fleece Pullover                                                  
+Old price : $59.95                                                              
+New price : $65.95                                                              
+Item : Women's Fleece Pullover                                                  
+Old price : $59.95                                                              
+New price : $65.95                                                              
+Item : Women's Fleece Pullover                                                  
+Old price : $59.95                                                              
+New price : $65.95                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Children's Beachcomber Sandals                                           
+Old price : $15.99                                                              
+New price : $17.59                                                              
+Item : Men's Expedition Parka                                                   
+Old price : $199.95                                                             
+New price : $219.95                                                             
+Item : Men's Expedition Parka                                                   
+Old price : $199.95                                                             
+New price : $219.95                                                             
+Item : Men's Expedition Parka                                                   
+Old price : $209.95                                                             
+New price : $230.95                                                             
+Item : Men's Expedition Parka                                                   
+Old price : $209.95                                                             
+New price : $230.95                                                             
+Item : Boy's Surf Shorts                                                        
+Old price : $15.95                                                              
+New price : $17.55                                                              
+Item : Boy's Surf Shorts                                                        
+Old price : $15.95                                                              
+New price : $17.55                                                              
+Item : Boy's Surf Shorts                                                        
+Old price : $15.95                                                              
+New price : $17.55                                                              
+Item : Girl's Soccer Tee                                                        
+Old price : $19.99                                                              
+New price : $21.99                                                              
+Item : Girl's Soccer Tee                                                        
+Old price : $19.99                                                              
+New price : $21.99                                                              
+Item : Girl's Soccer Tee                                                        
+Old price : $19.99                                                              
+New price : $21.99                                                              
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+top 2 employees are                                                             
+KING 5000                                                                       
+FORD 3000                                                                       
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+Employees who make the top 2 Salaries are                                       
+KING 5000                                                                       
+FORD 3000                                                                       
+SCOTT 3000                                                                      
+
+PL/SQL procedure successfully completed.
+

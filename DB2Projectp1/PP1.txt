@@ -1,0 +1,115 @@
+
+TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
+--------------------------------------------------------------------------------
+10 Tuesday   September 11:05:10 Pm                                              
+
+
+Procedure created.
+
+The triple of 5 is 15                                                           
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+32 degree in C is equivalent to 89.6 in F                                       
+
+PL/SQL procedure successfully completed.
+
+0 degree in C is equivalent to 32 in F                                          
+
+PL/SQL procedure successfully completed.
+
+15 degree in C is equivalent to 59 in F                                         
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+32 degree in F is equivalent to 0 in C                                          
+
+PL/SQL procedure successfully completed.
+
+101 degree in F is equivalent to 38.33333333333333333333333333333333333334 in C 
+
+PL/SQL procedure successfully completed.
+
+51 degree in F is equivalent to 10.55555555555555555555555555555555555556 in C  
+
+PL/SQL procedure successfully completed.
+
+0 degree in C is equivalent to 32 in F                                          
+
+PL/SQL procedure successfully completed.
+
+38.33333333333333333333333333333333333334 degree in C is equivalent to 101 in F 
+
+PL/SQL procedure successfully completed.
+
+10.55555555555555555555555555555555555556 degree in C is equivalent to          
+51.00000000000000000000000000000000000001 in F                                  
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For the price of $100                                                           
+You will have to pay $5 GST                                                     
+$9.98 QST for a total of $14.98                                                 
+The GRAND TOTAL is $114.98                                                      
+
+PL/SQL procedure successfully completed.
+
+For the price of $300                                                           
+You will have to pay $15 GST                                                    
+$29.94 QST for a total of $44.94                                                
+The GRAND TOTAL is $344.94                                                      
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+the area of a 10 by 5 rectangle is 50. It's parameter is 30                     
+
+PL/SQL procedure successfully completed.
+
+
+Function created.
+
+
+TEMP_F(32)                                                                      
+----------                                                                      
+      89.6                                                                      
+
+
+TEMP_F(24)                                                                      
+----------                                                                      
+      75.2                                                                      
+
+
+TEMP_F(16)                                                                      
+----------                                                                      
+      60.8                                                                      
+
+
+Function created.
+
+
+TEMP_C(32)                                                                      
+----------                                                                      
+         0                                                                      
+
+
+TEMP_C(98)                                                                      
+----------                                                                      
+36.6666667                                                                      
+
+
+TEMP_C(69)                                                                      
+----------                                                                      
+20.5555556                                                                      
+

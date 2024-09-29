@@ -1,7 +1,7 @@
 
 TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
 --------------------------------------------------------------------------------
-05 Thursday  September 09:24:57 Am                                              
+19 Thursday  September 09:52:12 Am                                              
 
 
 PL/SQL procedure successfully completed.
@@ -51,7 +51,7 @@ Connected.
 
 TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
 --------------------------------------------------------------------------------
-05 Thursday  September 09:24:57 Am                                              
+19 Thursday  September 09:52:12 Am                                              
 
 
 User dropped.
@@ -192,6 +192,197 @@ PL/SQL procedure successfully completed.
 Procedure created.
 
 For a mark of 50 you will have See you again my friend!!                        
+
+PL/SQL procedure successfully completed.
+
+
+TABLE_NAME                                                                      
+--------------------------------------------------------------------------------
+DEPT                                                                            
+EMP                                                                             
+BONUS                                                                           
+SALGRADE                                                                        
+
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ EMPNO                                     NOT NULL NUMBER(4)
+ ENAME                                              VARCHAR2(10)
+ JOB                                                VARCHAR2(9)
+ MGR                                                NUMBER(4)
+ HIREDATE                                           DATE
+ SAL                                                NUMBER(7,2)
+ COMM                                               NUMBER(7,2)
+ DEPTNO                                             NUMBER(2)
+
+
+Procedure created.
+
+Employee number 7839 is KING. He is earning 5000 a month.                       
+Where 7839 is empno, KING is ename, PRESIDENT is job and 5000 is sal            
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+Employee number 10000 not exist my friend                                       
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+OLD SALARY OF NUMBER7839 IS 5000                                                
+NEW SALARY OF NUMBER7839 IS 5500                                                
+SALARY UPDATED SUCCESSFULLY                                                     
+
+PL/SQL procedure successfully completed.
+
+
+Warning: Procedure created with compilation errors.
+
+BEGIN p_sep_12_ex1(7839); END;
+
+      *
+ERROR at line 1:
+ORA-06550: line 1, column 7: 
+PLS-00905: object C##SCOTT.P_SEP_12_EX1 is invalid 
+ORA-06550: line 1, column 7: 
+PL/SQL: Statement ignored 
+
+
+
+Warning: Procedure created with compilation errors.
+
+BEGIN p_sep_12_ex3(7839); END;
+
+      *
+ERROR at line 1:
+ORA-06550: line 1, column 7: 
+PLS-00905: object C##SCOTT.P_SEP_12_EX3 is invalid 
+ORA-06550: line 1, column 7: 
+PL/SQL: Statement ignored 
+
+
+
+Procedure created.
+
+0                                                                               
+1                                                                               
+2                                                                               
+3                                                                               
+4                                                                               
+5                                                                               
+6                                                                               
+7                                                                               
+8                                                                               
+9                                                                               
+10                                                                              
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+0                                                                               
+1                                                                               
+2                                                                               
+3                                                                               
+4                                                                               
+5                                                                               
+6                                                                               
+7                                                                               
+8                                                                               
+9                                                                               
+10                                                                              
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+0                                                                               
+1                                                                               
+2                                                                               
+3                                                                               
+4                                                                               
+5                                                                               
+6                                                                               
+7                                                                               
+8                                                                               
+9                                                                               
+10                                                                              
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+10                                                                              
+9                                                                               
+8                                                                               
+7                                                                               
+6                                                                               
+5                                                                               
+4                                                                               
+3                                                                               
+2                                                                               
+1                                                                               
+0                                                                               
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+Employee number 7839 is. He is a PRESIDENT, earning a salary of $5500.          
+Employee number 7698 is. He is a MANAGER, earning a salary of $2850.            
+Employee number 7782 is. He is a MANAGER, earning a salary of $2450.            
+Employee number 7566 is. He is a MANAGER, earning a salary of $2975.            
+Employee number 7788 is. He is a ANALYST, earning a salary of $3000.            
+Employee number 7902 is. He is a ANALYST, earning a salary of $3000.            
+Employee number 7369 is. He is a CLERK, earning a salary of $800.               
+Employee number 7499 is. He is a SALESMAN, earning a salary of $1600.           
+Employee number 7521 is. He is a SALESMAN, earning a salary of $1250.           
+Employee number 7654 is. He is a SALESMAN, earning a salary of $1250.           
+Employee number 7844 is. He is a SALESMAN, earning a salary of $1500.           
+Employee number 7876 is. He is a CLERK, earning a salary of $1100.              
+Employee number 7900 is. He is a CLERK, earning a salary of $950.               
+Employee number 7934 is. He is a CLERK, earning a salary of $1300.              
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+ROW NUMBER: 1                                                                   
+Employee number 7839 is. He is a PRESIDENT, earning a salary of $5500.          
+ROW NUMBER: 2                                                                   
+Employee number 7698 is. He is a MANAGER, earning a salary of $2850.            
+ROW NUMBER: 3                                                                   
+Employee number 7782 is. He is a MANAGER, earning a salary of $2450.            
+ROW NUMBER: 4                                                                   
+Employee number 7566 is. He is a MANAGER, earning a salary of $2975.            
+ROW NUMBER: 5                                                                   
+Employee number 7788 is. He is a ANALYST, earning a salary of $3000.            
+ROW NUMBER: 6                                                                   
+Employee number 7902 is. He is a ANALYST, earning a salary of $3000.            
+ROW NUMBER: 7                                                                   
+Employee number 7369 is. He is a CLERK, earning a salary of $800.               
+ROW NUMBER: 8                                                                   
+Employee number 7499 is. He is a SALESMAN, earning a salary of $1600.           
+ROW NUMBER: 9                                                                   
+Employee number 7521 is. He is a SALESMAN, earning a salary of $1250.           
+ROW NUMBER: 10                                                                  
+Employee number 7654 is. He is a SALESMAN, earning a salary of $1250.           
+ROW NUMBER: 11                                                                  
+Employee number 7844 is. He is a SALESMAN, earning a salary of $1500.           
+ROW NUMBER: 12                                                                  
+Employee number 7876 is. He is a CLERK, earning a salary of $1100.              
+ROW NUMBER: 13                                                                  
+Employee number 7900 is. He is a CLERK, earning a salary of $950.               
+ROW NUMBER: 14                                                                  
+Employee number 7934 is. He is a CLERK, earning a salary of $1300.              
 
 PL/SQL procedure successfully completed.
 

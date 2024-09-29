@@ -1,0 +1,96 @@
+
+TO_CHAR(SYSDATE,'DDDAYMONTHHH:MI:SSAM')                                         
+--------------------------------------------------------------------------------
+24 Tuesday   September 11:34:29 Pm                                              
+
+Connected.
+
+Procedure created.
+
+Department name: SALES                                                          
+Employee name: MARTIN                                                           
+Annual salary: 1250                                                             
+One time commission: 1400                                                       
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+Item description: 3-Season Tent                                                 
+Price: $259.99                                                                  
+Color: Sky Blue                                                                 
+Quantity on hand: 16                                                            
+Value: $4159.84                                                                 
+
+PL/SQL procedure successfully completed.
+
+Inventory item number 9999999 was not found                                     
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Function created.
+
+
+FIND_AGE(TO_DATE('03-31-1996','MM-DD-YYYY'))                                    
+--------------------------------------------                                    
+                                          28                                    
+
+
+Procedure created.
+
+Student name: Sarah Miller                                                      
+Birthdate: 14-JUL-85                                                            
+Age: 39                                                                         
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Function created.
+
+
+Function created.
+
+
+Procedure created.
+
+Consultant updated!                                                             
+Consultant Name: Mark Myers                                                     
+Skill Description: VB .NET Programming                                          
+
+PL/SQL procedure successfully completed.
+
+Consultant number 99999 was not found                                           
+
+PL/SQL procedure successfully completed.
+
+Consultant updated!                                                             
+Consultant Name: Mark Myers                                                     
+Skill Description: Web Application Programming                                  
+
+PL/SQL procedure successfully completed.
+
+Skill number 99999 was not found                                                
+
+PL/SQL procedure successfully completed.
+
+Error: Certification status must be Y or N.                                     
+
+PL/SQL procedure successfully completed.
+
+Consultant updated!                                                             
+Consultant Name: Mark Myers                                                     
+Skill Description: VB .NET Programming                                          
+
+PL/SQL procedure successfully completed.
+
+Consultant inserted!                                                            
+Consultant Name: Brian Zhang                                                    
+Skill Description: Java Programming                                             
+
+PL/SQL procedure successfully completed.
+
