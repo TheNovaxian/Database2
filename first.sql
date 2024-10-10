@@ -680,5 +680,7 @@ exec p_sep19_ex8(10);
 
 
 
+----cursor for loop-----
+
 
 SPOOL OFF;
